@@ -1,4 +1,6 @@
 export default {
+  MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_AsxfayWjT64zh8KLOjXDmKwD",
   s3: {
     REGION: "us-east-1",
     BUCKET: "hoa-notes-app-uploads"
